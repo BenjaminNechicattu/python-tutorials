@@ -4,6 +4,8 @@ print()
 ################################### type? #######################################
 #print(type(print))
 
+###################################################################################
+
 #print('tutorial','on','python','print','function')              ## default seperation is space
 #print('tutorial','on','python','print','function',sep='\n')     ## new line char
 #print('tutorial','on','python','print','function',sep=',')
@@ -14,6 +16,7 @@ print()
 #print(a,b,sep='+')
 
 ###     Default print ends with   new line char, \n   ###
+####################################    printing  values       ###################################
 
 #str1 = 'tutorial on'
 #str2 = 'python print function'
@@ -23,8 +26,6 @@ print()
 
 #print(str1,end=' ')
 #print(str2)
-
-############################    printing  values       #############################
 
 #a = 2
 #b = "codershouse"
