@@ -4,7 +4,6 @@ print()
 ################################### type? #######################################
 #print(type(print))
 
-
 #print('tutorial','on','python','print','function')              ## default seperation is space
 #print('tutorial','on','python','print','function',sep='\n')     ## new line char
 #print('tutorial','on','python','print','function',sep=',')
@@ -36,8 +35,6 @@ print()
 #print("%d is an integer while %s is a string."%(a,b))
 
 ############################################# fin ################################################
-
-
 
 ########################################### extras ###############################################
 
